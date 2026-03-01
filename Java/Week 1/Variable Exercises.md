@@ -73,7 +73,7 @@ double interestEarned;
 double finalBalance;
 ```
 
-#### Goal Tracking (No Conditionals Needed)
+#### Goal Tracking
 
 Calculate:
 
