@@ -1,9 +1,5 @@
 Exercise 1: The "Intergalactic Cargo Manager"
-
-Background
 You have been hired as a Junior Coder for SpaceX-Z. Your job is to write a program that calculates the costs and logistics for a cargo ship traveling from Earth to Mars.
-
-Requirements
 Create a single Java class file named CargoPlanner.java. Inside the main method, you must declare and initialize variables for the following data points:
 1. The Ship's Name: (Choose any name).
 2. Distance to Mars: 54.6 million kilometers (use a type that handles large whole numbers).
