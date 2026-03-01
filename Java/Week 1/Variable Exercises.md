@@ -18,11 +18,9 @@ Using the variables you created, perform the following operations and print the 
 
 ## Exercise 2: Student Grade Calculator
 Create a program that:
-1. Asks the user for their name
-2. Asks for three test scores
-3. Calculates the average
-4. Determines the letter grade
-5. Prints a formatted result
+1. Sets the person's name
+2. Sets three test scores
+3. Calculates and prints the average
 
 ## Optional Challenge Exercise: Bank Account Growth Simulator
 
