@@ -18,10 +18,10 @@ public class CargoPlanner {
         System.out.println("Your mission has been successful: " + missionSuccessful);
         System.out.println("Your mission has failed: " + missionFailed);
         System.out.println("The ship just used 12.2% of its fuel.");
-        double fuelLevelAfterUse = 63.3;
+        double fuelLevelAfterUse = 63.3;                                                                /* the point was to use the operator - for this task */
         // The ship's fuel level is now at 63.3%.
         System.out.println("The ship's fuel level is now " + fuelLevelAfterUse + "%.");
-        double distanceDividedBy3 = 18.2;
+        double distanceDividedBy3 = 18.2;                                                                /* the point was to use the operator / for this task */
         // The distance per leg is 18.2 million kilometers.
         System.out.println("The ship has " + distanceDividedBy3 + " million kilometers left to go.");
         double passengerCapacity = astronauts * astronautsfood;
@@ -30,3 +30,4 @@ public class CargoPlanner {
         
     }
 }
+/* overall very good! just modify it so that it uses operators */
