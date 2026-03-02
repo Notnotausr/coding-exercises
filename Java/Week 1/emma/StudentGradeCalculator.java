@@ -10,7 +10,8 @@ public class StudentGradeCalculator {
         int score5 = 92;
         System.out.println("Calculating your average score...");
         double averageScore = (score1 + score2 + score3 + score4 + score5) / 5.0;
-        System.out.println("Emma, your average score is: " + averageScore);
+        /* add the grade as a char, and if it is passing (just set it as B and true, since conditionals aren't supposed to be here) */
+        System.out.println("Emma, your average score is: " + averageScore); /* perhaps could use something with the variable "name" you defined? */
     }
 }
     
