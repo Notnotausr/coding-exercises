@@ -9,7 +9,7 @@ public class gradeCalc {
         double avgGrade = (math + english + science + history + pe) / 5;
         
         char gradeletter;
-        String passing;         // the intention was to use booleans here, but it works i suppose
+        String passing;         /* the intention was to use booleans here, but it works i suppose */
 
         if (avgGrade >= 60 /* i believe you meant to say "<= 60" as this conditional will execute the code if the grade is greater than or equal to instead of less than or equal to */) {
             gradeletter = 'N';
@@ -33,3 +33,4 @@ public class gradeCalc {
     }
 
 }
+
