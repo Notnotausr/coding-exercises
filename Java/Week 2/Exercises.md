@@ -1,6 +1,5 @@
 # Week 2 Exercises (Due by 3/14 at 3PM)
 ## Exercise 1: Modified FizzBuzz
-##### Requires knowledge of loops and conditionals.
 ### Requirements
 Make a program that outputs the first 1000 numbers with the following conditions:
 
@@ -9,3 +8,4 @@ Make a program that outputs the first 1000 numbers with the following conditions
 3. When a number is divisible by 7, print "Buzz".
 4. Print the applicable words in order of "Fizz, Jazz, Buzz".
 5. If none of the above conditions apply, print the number itself.
+#### No hardcoding allowed.
