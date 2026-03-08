@@ -1,2 +1,2 @@
 # Week 2 Exercises
-placeholder
+No homework this week!
