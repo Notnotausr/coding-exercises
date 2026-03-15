@@ -1,9 +1,8 @@
-# Week 3 Exercises
+# Week 3 Loop & Conditional Exercises
 #### Due by 3/28 at 3PM
 ## Exercise 1: Modified FizzBuzz
 ### Requirements
 Make a program that outputs the first 1000 numbers with the following conditions:
-
 1. When a number is divisible by 3, print "Fizz".
 2. When a number is divisible by 5, print "Jazz".
 3. When a number is divisible by 7, print "Buzz".
