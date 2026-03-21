@@ -22,4 +22,5 @@ public class Droid {
         System.out.println(name + " is recharging.");
         energyLevel += 20; // increase energy level by 20 after recharging
     }
+    /* requires a main method here or somewhere else that uses this class */
 }
