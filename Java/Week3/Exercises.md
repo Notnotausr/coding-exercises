@@ -1,5 +1,5 @@
 # Week 3 Loop & Conditional Exercises
-#### Due by 3/28 at 3PM
+#### Due by 4/4 at 3PM
 ## Exercise 1: Modified FizzBuzz
 ### Requirements
 Make a program that outputs the first 1000 numbers with the following conditions:
