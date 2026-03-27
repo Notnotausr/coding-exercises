@@ -9,7 +9,7 @@ Make a program that outputs the first 1000 numbers with the following conditions
 4. Print the applicable words in order of "Fizz, Jazz, Buzz".
 5. If none of the above conditions apply, print the number itself.
 #### No hardcoding allowed.
-## Exercise 2: Video game simulation (change later)
+## Exercise 2: Video game simulation
 Create a Java program that models a **Video Game Character**.
 ### Steps
 1. Make a `Character` class with variables such as `name`, `health`, and `level`, and add a method like `displayStats()` that prints the character’s information.
