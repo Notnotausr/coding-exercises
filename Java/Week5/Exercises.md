@@ -1,4 +1,5 @@
 # Week 5 2D Array Exercises
+#### Due on 4/18 by 3PM
 ## Exercise 1: Student Scores (if not reached)
 #### Your code to be modified is:
 ```java
