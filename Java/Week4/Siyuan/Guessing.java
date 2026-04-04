@@ -28,7 +28,7 @@ public class Guessing {
 
             guesses++;
         }
-        System.out.println(guesses);
+        System.out.println("you got the number in " + guesses + " tries");
         input.close();
     }
 }
