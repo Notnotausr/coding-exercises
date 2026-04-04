@@ -17,7 +17,7 @@ public class Fizzbuzz {
                 string += "Buzz";
             }
             
-            if (i % 3 != 0 && i % 5 != 0 && i % 7 != 0) { // more efficient to use string.equals("")
+            if (i % 3 != 0 && i % 5 != 0 && i % 7 != 0) { // more efficient to use string.isEmpty()
                 System.out.println(i);
             } else {
                 System.out.println(string);
