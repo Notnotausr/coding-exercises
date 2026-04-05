@@ -1,4 +1,4 @@
-# Week 1 Variable Exercises
+# Variable Exercises
 #### Due by 3/7 at 3PM
 ## Exercise 1: The "Intergalactic Cargo Manager"
 You have been hired as a Junior Coder for SpaceX-Z. Your job is to write a program that calculates the costs and logistics for a cargo ship traveling from Earth to Mars.

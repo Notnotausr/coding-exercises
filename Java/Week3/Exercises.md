@@ -1,4 +1,4 @@
-# Week 3 Loop & Conditional Exercises
+# Loop & Conditional Exercises
 #### Due by 4/4 at 3PM
 ## Exercise 1: Modified FizzBuzz
 ### Requirements

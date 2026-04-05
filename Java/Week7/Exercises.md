@@ -1,1 +1,1 @@
-# Week 7 Collections Exercises
+# Generics Exercises

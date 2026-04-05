@@ -1,4 +1,4 @@
-# Week 2 OOP Exercises
+# OOP Exercises
 #### Due at 3/21 by 3PM
 ## Project 1: Basic Calculator
 ### Overview
