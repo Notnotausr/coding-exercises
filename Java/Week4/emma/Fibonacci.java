@@ -3,7 +3,7 @@ public class Fibonacci {
         int number = 100; // Generate the first 100 Fibonacci numbers
     
         // first two Fibonacci numbers
-        int[] fibonacci = new int[number];
+        int[] fibonacci = new int[number]; /* use double as int can't handle numbers above 2^31 */
         fibonacci[0] = 0;
         fibonacci[1] = 1;
         
