@@ -1,7 +1,0 @@
-# Actual Week 4 exercises (push everything one week later)
-## Print the first 100 terms of the Fibonacci sequence
-## Print a star pyramid 100 rows high
-Should look like
-*
-**
-***
