@@ -1,6 +1,8 @@
 public class GameSimulation {
     public static void main(String[] args) {
         // Create multiple characters and store in an array
+        
+        /* where is the character class? */
         Character[] party = {
             new Character("Archer", 80, 1),
             new Character("Mage", 60, 1),

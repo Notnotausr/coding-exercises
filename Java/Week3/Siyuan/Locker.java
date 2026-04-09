@@ -1,4 +1,5 @@
 public class Locker {
+    /* should've been indented correctly, but will not change code operation */
         String name;
         int number;
         boolean isOpen;

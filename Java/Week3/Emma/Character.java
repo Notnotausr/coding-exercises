@@ -44,4 +44,5 @@ public class Character {
             System.out.println(name + " leveled up to level " + level + "!");
         }
     }
+    /* no main function? */
 }

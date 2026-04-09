@@ -14,7 +14,7 @@ public class Robot {
         if (bot.battery < 20) {
         System.out.println("Charge first!");
         }
-
+    /* incorrect indentation, doesn't change code operation but does hinder readability */
     for (int step =0; step < 3; step++) {
         System.out.println("Move forward");
         }
