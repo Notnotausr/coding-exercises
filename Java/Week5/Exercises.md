@@ -1,8 +1,3 @@
-# actual week4 stuff\
-#### Due on 4/11 by 3PM
-## fibonacci sequence for first 100 numbers
-## pyramid of stars (*) with 100 rows
-
 # Week 4 Access/Inheritance Exercises
 #### Due on 4/25 by 3PM
 ## Exercise 1: Account & User Access
