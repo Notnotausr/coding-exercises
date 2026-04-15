@@ -2,7 +2,7 @@
 #### Due on 4/25 by 3PM
 ## Exercise 1: Account & User Access
 ### Instructions:
-1. Create a class BankAccount in one Java file:
+1. Create a class `BankAccount` in one Java file:
 * Fields:
   * `private double balance`
   * `protected String accountType`
