@@ -1,3 +1,3 @@
 # Week 9 Threading Exercises
-#### Due on 5/30 by 3PM
+#### Due on 6/6 by 3PM
 (insert exercises here)
