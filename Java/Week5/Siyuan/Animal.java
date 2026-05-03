@@ -1,3 +1,5 @@
+/* seems incomplete right now, will give more time */
+
 public static void Animal{
     public class Animal{
         String animalType;
