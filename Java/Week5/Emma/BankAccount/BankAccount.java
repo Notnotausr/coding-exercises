@@ -5,12 +5,14 @@ public class BankAccount {
     protected String accountType;
     private String password;
     protected String username;
+
     public BankAccount(String username, String password, String accountType) {
         this.username = username;
         this.password = password;
         this.accountType = accountType;
         this.balance = 0.0;
     }
+
     // public methods
     // deposit money
     public final void depositMoney(double amount) {
@@ -29,10 +31,12 @@ public class BankAccount {
             System.out.println("The current withdraw amount is invalid.");
         }
     }
+
     // set password
     public final void setPassword(String password) {
         this.password = password;
     }
+
     // return balance
     public final double getBalance() {
         return balance;
@@ -43,7 +47,7 @@ public class BankAccount {
         return username;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { /* not here */
         BankAccount account1 = new BankAccount("user1", "pass1", "checking");
         account1.depositMoney(100);
         System.out.println("Balance: " + account1.getBalance());

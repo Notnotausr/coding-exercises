@@ -2,6 +2,7 @@ package Emma.Animal;
 
 public class Mammal extends Animal{
     private boolean hasFur;
+
     public Mammal(String type, boolean hasFur) {
         super(type);
         this.hasFur = hasFur;
@@ -20,5 +21,4 @@ public class Mammal extends Animal{
         super.DisplayInfo();
         System.out.println("Has Fur: " + hasFur);
     }
-
 }

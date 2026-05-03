@@ -16,11 +16,11 @@ public class BankAccount {
         password = newpassword;
     }
     
-    public String ReturnUser(){ /* username is protected, so no need to have a method for this one */
+    public String ReturnUser(){
         return username;
     }
 
-    public String ReturnType(){ /* accountType is protected, so no need to have a method for this one */
+    public String ReturnType(){
         return accountType;
     }
 

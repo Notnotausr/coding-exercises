@@ -1,5 +1,4 @@
 public class Bike extends Vehicle {
-    
     String type;
 
     public Bike(String type) {
@@ -7,6 +6,7 @@ public class Bike extends Vehicle {
         this.type = type;
     }
 
+    /* needs @Override */
     public void displayInfo(){
         System.out.println("Your " + brand + " is going " + speed + " mph. It is a " + type + " bike.");
     }

@@ -6,6 +6,7 @@ public class Animal {
     public Animal(String type) {
         this.type = type;
     }
+
     public void DisplayInfo() {
         System.out.println("Type: " + type);
     }
@@ -13,4 +14,6 @@ public class Animal {
     public void Eat() {
         System.out.println(type + " is eating.");
     }
+
+    /* getType() is missing */
 }
