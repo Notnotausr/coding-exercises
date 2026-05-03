@@ -1,4 +1,6 @@
 public class Mammal extends Animal {
+    /* needs hasFur field here as well */
+
     public Mammal(boolean hasFur) {
         super("Mammal");
         if (hasFur == true){
@@ -10,6 +12,5 @@ public class Mammal extends Animal {
 
     public void walk(double distance){
         System.out.println("I have walked " + distance + ".");
-    
     }
 }

@@ -1,7 +1,5 @@
-/* seems incomplete right now, will give more time */
-
 public class Animal {
-    String animalType;
+    String animalType; /* alr i suppose, it is supposed to be "type" however */
 
     public Animal(String type){
         animalType = type;
@@ -12,4 +10,3 @@ public class Animal {
         System.out.println("I am eating " + food + ".");
     }
 }
-
